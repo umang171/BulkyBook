@@ -7,6 +7,8 @@
     </div>
     <div asp-validation-summary="All"></div>
     <form method="POST" class="row" enctype="multipart/form-data">
+        <input asp-for="Product.Id" hidden />
+        <input asp-for="Product.ImageUrl" hidden />
         <div class="mb-2">
             <label asp-for="Product.Title"></label>
             <input type="text" asp-for="Product.Title" class="form-control" />
@@ -51,6 +53,12 @@
             <label asp-for="Product.ImageUrl"></label>
             <input type="file" id="productImg" name="file" class="form-control" />
         </div>
+        @if (@Model.Product.ImageUrl != null)
+        {
+            <div class="mb-2">
+                <img style="height:200px;width:200px" src="~/@Model.Product.ImageUrl" />
+            </div>
+        }
         <div class="mb-2 col-6">
             <label asp-for="Product.CategoryId"></label>
             <select asp-for="Product.CategoryId" asp-items="@Model.CategoryList" class="form-select">
@@ -85,14 +93,14 @@
     <partial name="_ValidationScriptsPartial" />
     }
 <script>
-        function validateInput(){
-            if($("#productImg").val()==""){
-                Swal.fire({
-                  icon: 'error',
-                  title: 'Oops...',
-                  text: 'Please Upload an Image!',
-                })
-            }
+    function validateInput(){
+        if($("#productImg").val()==""){
+            Swal.fire({
+              icon: 'error',
+              title: 'Oops...',
+              text: 'Please Upload an Image!',
+            })
         }
+    }
 </script>
 }

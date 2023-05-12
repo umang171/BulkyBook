@@ -32,6 +32,7 @@ namespace BulkyBook.DataAccess.Repository
                 productObj.CategoryId= product.CategoryId;
                 productObj.Author= product.Author;
                 productObj.CoverTypeId= product.CoverTypeId;
+                productObj.Id= product.Id;
                 if (product.ImageUrl != null)
                 {
                     productObj.ImageUrl = product.ImageUrl;
