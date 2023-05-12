@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Cm1vpL0nnpIKsru0ii55OfecwKR3CIdPTjsD8PhtKHk=",
+  "Hash": "aoaX2u+b/q+96NaWP59qDktoiPfJwsvyXzzeUjqNgfI=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -119,12 +119,12 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\19d262de-e59c-4754-9495-44f0e77b6e0b.jpg"
     },
     {
-      "Identity": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\images\\products\\8502afe3-2c95-4675-a1d2-67af399541a6.jpg",
+      "Identity": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\images\\products\\29844f1b-8696-4b3b-900e-41391c44b7cf.jpg",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/products/8502afe3-2c95-4675-a1d2-67af399541a6.jpg",
+      "RelativePath": "images/products/29844f1b-8696-4b3b-900e-41391c44b7cf.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,7 +133,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\8502afe3-2c95-4675-a1d2-67af399541a6.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\29844f1b-8696-4b3b-900e-41391c44b7cf.jpg"
+    },
+    {
+      "Identity": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\images\\products\\3455354d-5264-480c-a450-73d5f5af91b6.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/products/3455354d-5264-480c-a450-73d5f5af91b6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\3455354d-5264-480c-a450-73d5f5af91b6.jpg"
+    },
+    {
+      "Identity": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\images\\products\\6819cfd6-28de-481a-ba82-d0617d7db7f1.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/products/6819cfd6-28de-481a-ba82-d0617d7db7f1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\6819cfd6-28de-481a-ba82-d0617d7db7f1.jpg"
     },
     {
       "Identity": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\images\\products\\9ecbdf49-5bdf-4df2-b8f8-fbb0e471cd8d.jpg",
@@ -153,12 +187,12 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\9ecbdf49-5bdf-4df2-b8f8-fbb0e471cd8d.jpg"
     },
     {
-      "Identity": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\images\\products\\b8045941-6593-4d8e-bef0-e1a1fa388d8e.jpg",
+      "Identity": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\images\\products\\d4dfec88-f92f-4572-ad68-a7ed69676e3a.jpg",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/products/b8045941-6593-4d8e-bef0-e1a1fa388d8e.jpg",
+      "RelativePath": "images/products/d4dfec88-f92f-4572-ad68-a7ed69676e3a.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,41 +201,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\b8045941-6593-4d8e-bef0-e1a1fa388d8e.jpg"
-    },
-    {
-      "Identity": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\images\\products\\cc4ee3e9-c941-4f98-a778-6562e4c04d71.jpg",
-      "SourceId": "BulkyBookWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\",
-      "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/products/cc4ee3e9-c941-4f98-a778-6562e4c04d71.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\cc4ee3e9-c941-4f98-a778-6562e4c04d71.jpg"
-    },
-    {
-      "Identity": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\images\\products\\d5ab4764-ea5d-44c1-bc0c-39111d905937.jpg",
-      "SourceId": "BulkyBookWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\",
-      "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/products/d5ab4764-ea5d-44c1-bc0c-39111d905937.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\d5ab4764-ea5d-44c1-bc0c-39111d905937.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\d4dfec88-f92f-4572-ad68-a7ed69676e3a.jpg"
     },
     {
       "Identity": "D:\\Umang\\BulkyBook\\BulkyBook\\BulkyBook\\wwwroot\\js\\product.js",
